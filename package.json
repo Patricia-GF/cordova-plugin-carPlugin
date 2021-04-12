@@ -1,0 +1,23 @@
+{
+  "author": {
+    "name": "Patrícia Ferreira"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TW-PatriciaGF/cordova-plugin-car"
+  },
+  "name": "cordova-plugin-car",
+  "version": "1.0.0",
+  "description": "Cordova plugin for Google Firebase",
+  "cordova": {
+    "id": "com.example.carPlugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ]
+}
